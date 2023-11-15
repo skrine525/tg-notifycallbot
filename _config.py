@@ -1,0 +1,8 @@
+BOT_TOKEN = ""
+
+PHONE_NUMBER = ""
+API_ID = ""
+API_HASH = ""
+
+ADMIN_IDS = []
+CALL_DURATION = 60

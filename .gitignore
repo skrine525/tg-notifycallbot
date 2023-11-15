@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+/env
+
+# VS Code
+/.vscode
+
+# Bot
+/logs
+/database.db
+/pyrogram.session
+/config.py
